@@ -1,4 +1,4 @@
-# PengalamanBelajar (branch)
+# PengalamanBelajar
 Repository Ini Berisi Pengalaman Belajarku di Dicoding
 
 **14 Juni 2021**<br>
